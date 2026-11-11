@@ -1,0 +1,152 @@
+04:03:21 [ServerInfo] ChaosMix loaded successfully
+04:03:21 [ServerInfo] Character loaded successfully
+04:03:21 [ServerInfo] Command loaded successfully
+04:03:21 [ServerInfo] Common loaded successfully
+04:03:21 [ServerInfo] Custom loaded successfully
+04:03:21 [ServerInfo] Event loaded successfully
+04:03:21 [ServerInfo] EventItemBag loaded successfully
+04:03:21 [ServerInfo] Hack loaded successfully
+04:03:21 [ServerInfo] Item loaded successfully
+04:03:21 [ServerInfo] Monster loaded successfully
+04:03:21 [ServerInfo] Move loaded successfully
+04:03:21 [ServerInfo] Quest loaded successfully
+04:03:21 [ServerInfo] Shop loaded successfully
+04:03:21 [ServerInfo] Skill loaded successfully
+04:03:21 [ServerInfo] Util loaded successfully
+04:03:21 [Blood Castle] (1) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (1) SetState EMPTY
+04:03:21 [Blood Castle] (2) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (2) SetState EMPTY
+04:03:21 [Blood Castle] (3) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (3) SetState EMPTY
+04:03:21 [Blood Castle] (4) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (4) SetState EMPTY
+04:03:21 [Blood Castle] (5) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (5) SetState EMPTY
+04:03:21 [Blood Castle] (6) Sync Start Time. [116] min remain
+04:03:21 [Blood Castle] (6) SetState EMPTY
+04:03:21 [Devil Square] (1) Sync Start Time. [26] min remain
+04:03:21 [Devil Square] (1) SetState EMPTY
+04:03:21 [Devil Square] (2) Sync Start Time. [26] min remain
+04:03:21 [Devil Square] (2) SetState EMPTY
+04:03:21 [Devil Square] (3) Sync Start Time. [26] min remain
+04:03:21 [Devil Square] (3) SetState EMPTY
+04:03:21 [Devil Square] (4) Sync Start Time. [26] min remain
+04:03:21 [Devil Square] (4) SetState EMPTY
+04:03:21 [Bingo] Sync Start Time. [1107] min remain
+04:03:21 [Bingo] SetState EMPTY
+04:03:21 [JoinServerConnection] Connected
+04:03:21 [DataServerConnection] Connected
+04:03:52 [JoinServerConnection] Disconnected
+04:03:54 [DataServerConnection] Disconnected
+04:11:12 [ServerInfo] ChaosMix loaded successfully
+04:11:12 [ServerInfo] Character loaded successfully
+04:11:12 [ServerInfo] Command loaded successfully
+04:11:12 [ServerInfo] Common loaded successfully
+04:11:12 [ServerInfo] Custom loaded successfully
+04:11:12 [ServerInfo] Event loaded successfully
+04:11:12 [ServerInfo] EventItemBag loaded successfully
+04:11:12 [ServerInfo] Hack loaded successfully
+04:11:12 [ServerInfo] Item loaded successfully
+04:11:12 [ServerInfo] Monster loaded successfully
+04:11:12 [ServerInfo] Move loaded successfully
+04:11:12 [ServerInfo] Quest loaded successfully
+04:11:12 [ServerInfo] Shop loaded successfully
+04:11:12 [ServerInfo] Skill loaded successfully
+04:11:12 [ServerInfo] Util loaded successfully
+04:11:12 [Blood Castle] (1) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (1) SetState EMPTY
+04:11:12 [Blood Castle] (2) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (2) SetState EMPTY
+04:11:12 [Blood Castle] (3) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (3) SetState EMPTY
+04:11:12 [Blood Castle] (4) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (4) SetState EMPTY
+04:11:12 [Blood Castle] (5) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (5) SetState EMPTY
+04:11:12 [Blood Castle] (6) Sync Start Time. [108] min remain
+04:11:12 [Blood Castle] (6) SetState EMPTY
+04:11:12 [Devil Square] (1) Sync Start Time. [18] min remain
+04:11:12 [Devil Square] (1) SetState EMPTY
+04:11:12 [Devil Square] (2) Sync Start Time. [18] min remain
+04:11:12 [Devil Square] (2) SetState EMPTY
+04:11:12 [Devil Square] (3) Sync Start Time. [18] min remain
+04:11:12 [Devil Square] (3) SetState EMPTY
+04:11:12 [Devil Square] (4) Sync Start Time. [18] min remain
+04:11:12 [Devil Square] (4) SetState EMPTY
+04:11:12 [Bingo] Sync Start Time. [1099] min remain
+04:11:12 [Bingo] SetState EMPTY
+04:11:12 [JoinServerConnection] Connected
+04:11:12 [DataServerConnection] Connected
+04:11:47 [ServerInfo] ChaosMix loaded successfully
+04:11:47 [ServerInfo] Character loaded successfully
+04:11:47 [ServerInfo] Command loaded successfully
+04:11:47 [ServerInfo] Common loaded successfully
+04:11:47 [ServerInfo] Custom loaded successfully
+04:11:47 [ServerInfo] Event loaded successfully
+04:11:47 [ServerInfo] EventItemBag loaded successfully
+04:11:47 [ServerInfo] Hack loaded successfully
+04:11:47 [ServerInfo] Item loaded successfully
+04:11:47 [ServerInfo] Monster loaded successfully
+04:11:47 [ServerInfo] Move loaded successfully
+04:11:47 [ServerInfo] Quest loaded successfully
+04:11:47 [ServerInfo] Shop loaded successfully
+04:11:47 [ServerInfo] Skill loaded successfully
+04:11:47 [ServerInfo] Util loaded successfully
+04:11:47 [Blood Castle] (1) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (1) SetState EMPTY
+04:11:47 [Blood Castle] (2) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (2) SetState EMPTY
+04:11:47 [Blood Castle] (3) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (3) SetState EMPTY
+04:11:47 [Blood Castle] (4) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (4) SetState EMPTY
+04:11:47 [Blood Castle] (5) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (5) SetState EMPTY
+04:11:47 [Blood Castle] (6) Sync Start Time. [108] min remain
+04:11:47 [Blood Castle] (6) SetState EMPTY
+04:11:47 [Devil Square] (1) Sync Start Time. [18] min remain
+04:11:47 [Devil Square] (1) SetState EMPTY
+04:11:47 [Devil Square] (2) Sync Start Time. [18] min remain
+04:11:47 [Devil Square] (2) SetState EMPTY
+04:11:47 [Devil Square] (3) Sync Start Time. [18] min remain
+04:11:47 [Devil Square] (3) SetState EMPTY
+04:11:47 [Devil Square] (4) Sync Start Time. [18] min remain
+04:11:47 [Devil Square] (4) SetState EMPTY
+04:11:47 [Bingo] Sync Start Time. [1099] min remain
+04:11:47 [Bingo] SetState EMPTY
+04:11:48 [JoinServerConnection] Connected
+04:11:48 [DataServerConnection] Connected
+04:17:41 Response error after connection causes conclusion [9000][][][192.168.1.9]
+04:30:00 [Devil Square] (1) SetState STAND
+04:30:00 [Devil Square] (2) SetState STAND
+04:30:00 [Devil Square] (3) SetState STAND
+04:30:00 [Devil Square] (4) SetState STAND
+04:30:01 [Devil Square] (1) Not enough users
+04:30:01 [Devil Square] (1) Sync Start Time. [239] min remain
+04:30:01 [Devil Square] (1) SetState EMPTY
+04:30:01 [Devil Square] (2) Not enough users
+04:30:01 [Devil Square] (2) Sync Start Time. [239] min remain
+04:30:01 [Devil Square] (2) SetState EMPTY
+04:30:01 [Devil Square] (3) Not enough users
+04:30:01 [Devil Square] (3) Sync Start Time. [239] min remain
+04:30:01 [Devil Square] (3) SetState EMPTY
+04:30:01 [Devil Square] (4) Not enough users
+04:30:01 [Devil Square] (4) Sync Start Time. [239] min remain
+04:30:01 [Devil Square] (4) SetState EMPTY
+04:33:20 [DataServerConnection] Disconnected
+04:33:22 [ServerInfo] ChaosMix loaded successfully
+04:33:22 [ServerInfo] Character loaded successfully
+04:33:22 [ServerInfo] Command loaded successfully
+04:33:22 [ServerInfo] Common loaded successfully
+04:33:22 [ServerInfo] Custom loaded successfully
+04:33:22 [ServerInfo] Event loaded successfully
+04:33:22 [ServerInfo] EventItemBag loaded successfully
+04:33:22 [ServerInfo] Hack loaded successfully
+04:33:22 [ServerInfo] Item loaded successfully
+04:33:22 [ServerInfo] Monster loaded successfully
+04:33:22 [ServerInfo] Move loaded successfully
+04:33:22 [ServerInfo] Quest loaded successfully
+04:33:22 [ServerInfo] Shop loaded successfully
+04:33:22 [ServerInfo] Skill loaded successfully
+04:33:22 [ServerInfo] Util loaded successfully
